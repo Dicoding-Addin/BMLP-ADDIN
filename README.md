@@ -1,6 +1,10 @@
 ## Submission - Membangun Proyek Machine Learning
+## Penilaian Proyek
+Proyek ini berhasil mendapatkan bintang 5/5 pada submission dicoding course Belajar Machine Learning Pemula.
+![Penilaian](/gambar/6.png)
+
 ### Pengantar
-[DataSet](https://drive.google.com/drive/folders/1Zs7VmPZ-jNwsRlMKH65Ea-LApSwx6lKx?hl=ID)
+- [dataset_clustering_project - Google Drive](https://drive.google.com/drive/folders/1Zs7VmPZ-jNwsRlMKH65Ea-LApSwx6lKx?hl=ID)
 ![tes](/gambar/1.png)
 
 ### Kriteria Utama
