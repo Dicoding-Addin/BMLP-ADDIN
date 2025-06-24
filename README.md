@@ -1,3 +1,3 @@
 # Belajar-Machine-Learning-untuk-Pemula
 
-[tes](/gambar/test.png)
+![tes](/gambar/test.png)
